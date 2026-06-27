@@ -1,4 +1,4 @@
-# PulseDesk -- Forge 2 / Edition 1  (rename this repo: forge2-<yourname>)
+
 
 A multi-tenant support-desk SaaS, BUILT BY ORCHESTRATING Hermes + OpenClaw over Slack.
 This is a STARTER SKELETON -- structure only, zero features. Build the features with your agents.
